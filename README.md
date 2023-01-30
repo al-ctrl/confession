@@ -1,5 +1,5 @@
-1. Go to System environment variables
-2. Create TOKEN 
-3. Enter your token 
-4. Go to config.json enter your CfsID, CfsLogID, GuildID
+1. Buka Variable System environment
+2. Buat TOKEN 
+3. Masukan TOKEN anda
+4. Buka config.json masukkan CfsID, CfsLogID, GuildID Anda
 5. Run
