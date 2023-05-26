@@ -35,6 +35,14 @@ Repository ini berisi Bot Confession Discord. Bot Confession adalah bot Discord 
    ```shell
    npm start
    ```
+   
+   ## Konfigurasi 
+
+1. Buka Variable System environment
+2. Buat TOKEN 
+3. Masukan TOKEN anda
+4. Buka config.json masukkan CfsID, CfsLogID, GuildID Anda
+5. Run
 
 Pastikan bot Confession memiliki izin yang cukup untuk membaca, mengirim pesan, dan mengelola pesan di server Discord. Anda dapat mengatur izin bot melalui halaman pengaturan server Discord.
 
@@ -58,10 +66,4 @@ Proyek ini dilisensikan di bawah [Lisensi MIT](https://opensource.org/licenses/M
 
 Jangan ragu untuk menghubungi kami jika Anda memiliki pertanyaan atau masalah dengan Bot Confession Discord. Terima kasih telah menggunakan bot kami!
 
-## Konfigurasi 
 
-1. Buka Variable System environment
-2. Buat TOKEN 
-3. Masukan TOKEN anda
-4. Buka config.json masukkan CfsID, CfsLogID, GuildID Anda
-5. Run
