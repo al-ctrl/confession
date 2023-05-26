@@ -36,7 +36,7 @@ Repository ini berisi Bot Confession Discord. Bot Confession adalah bot Discord 
    npm start
    ```
    
-   ## Konfigurasi 
+## Konfigurasi 
 
 1. Buka Variable System environment
 2. Buat TOKEN 
